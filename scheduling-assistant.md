@@ -26,6 +26,9 @@ Nina also goes to swim meets on select Saturdays April through June:
 - Jun 21 08:00 AM Terra Linda @ 670 Del Ganado, Terra Linda
 - Jun 28 08:00 AM Champs @ 1800 Ignacio Blvd., Novato
 
+## Other activities
+Nina has a talent show practice at Bacich at 4:40 on Thursday, March 13
+
 # Marco's Schedule
 * Marco plays futsal at various locations on weekends. Each game lasts one hour.
  His futsal schedule (date, time, and school where the game is):

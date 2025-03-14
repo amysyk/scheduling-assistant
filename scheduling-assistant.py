@@ -9,8 +9,15 @@ with open('scheduling-assistant.md', 'r') as file:
     relevant_context = file.read()
 
 # Tell the model today's date
-from datetime import date
-today = date.today()
+from datetime import datetime
+import pytz
+
+# Get current date and time in Pacific Time Zone
+pacific = pytz.timezone("America/Los_Angeles")
+pacific_time = datetime.now(pacific)
+
+# Extract just the date
+today = pacific_time.date()
 relevant_context = relevant_context + f" Today's date is {today}. "
 
 if LLM_PROVIDER == "OPENAI":

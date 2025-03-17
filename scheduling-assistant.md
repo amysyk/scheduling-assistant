@@ -99,10 +99,12 @@ Date,Start Time,End Time,Arrival Time,Game / Event Name,Location,Address,Result
 05/11/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
 05/18/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
 
-Marco also has a picture day at Kent Middle School with his Ross Valley Little League team on Saturday, March 22, 2025
+Marco also has a picture day at Kent Middle School with his Ross Valley Little League team at 11:45 am Saturday, March 22, 2025
 
+# Considerations
 * Marco has Rustin's birthday part at Hal Brown park from 4 to 6 pm on Saturday, March 8.
 * Soccer practice at Corte Madera park is cancelled on March 13, 2025 due to the wet conditions.
+* Marco will not attend soccer practice at 4 o'clock on Thursday, March 20. He will go to practice at Ross Commons instead.
 
 # Response Format
 * When listing one schedule, respond with prose. For example:

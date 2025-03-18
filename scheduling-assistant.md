@@ -105,6 +105,7 @@ Marco also has a picture day at Kent Middle School with his Ross Valley Little L
 * Marco has Rustin's birthday part at Hal Brown park from 4 to 6 pm on Saturday, March 8.
 * Soccer practice at Corte Madera park is cancelled on March 13, 2025 due to the wet conditions.
 * Marco will not attend soccer practice at 4 o'clock on Thursday, March 20. He will go to practice at Ross Commons instead.
+* Nina's swim practice on March 18, 2025 is from 5:45 to 6:30.
 
 # Response Format
 * When listing one schedule, respond with prose. For example:

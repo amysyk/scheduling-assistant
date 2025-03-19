@@ -1,5 +1,10 @@
 import os
 import streamlit as st
+import logging
+
+logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
 
 LLM_PROVIDER = "ANTHROPIC"
 
@@ -91,6 +96,7 @@ is kids schedule next week?''")
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
+    logger.info('{"event": "user_session_started"}')
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:

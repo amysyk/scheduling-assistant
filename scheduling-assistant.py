@@ -96,9 +96,6 @@ is kids schedule next week?''")
 # Initialize chat history
 if "messages" not in st.session_state:
     st.session_state.messages = []
-    no_messages = True
-else:
-    no_messages = False
 
 # Display chat messages from history on app rerun
 for message in st.session_state.messages:
@@ -108,8 +105,7 @@ for message in st.session_state.messages:
 # React to user input
 if input := st.chat_input("Message Don't Ask Dad"):
     # Log if first message in chat
-    if no_messages:
-        logger.info('{"event": "user_session_started"}')
+    logger.info('{"event": "user_messaged"}')
 
     # Display user message in chat message container
     st.chat_message("user").markdown(input)

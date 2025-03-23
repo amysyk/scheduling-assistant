@@ -106,6 +106,7 @@ Marco also has a picture day at Kent Middle School with his Ross Valley Little L
 * Soccer practice at Corte Madera park is cancelled on March 13, 2025 due to the wet conditions.
 * Marco will not attend soccer practice at 4 o'clock on Thursday, March 20. He will go to practice at Ross Commons instead.
 * Nina's swim practice on March 18, 2025 is from 5:45 to 6:30.
+* Marco will go to his tutor at 2 o'clock on Sunday, March 23.
 
 # Response Format
 * When listing one schedule, respond with prose. For example:

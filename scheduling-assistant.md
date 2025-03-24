@@ -117,3 +117,4 @@ in chronological order. No need to list AM or PM. The time of the day is self-ex
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | Mon, 3/14 | 5:30 | 6:15 | Nina | Swimming | Redwood High |
 | Tue, 3/15 | 5:00 | 6:30 | Marco | Soccer | Corte Madera Park |
+2025-03-23 20:03:41.133228-07:00:Marco will start singing lessons every Monday beginning Monday, March 24, 2025. This is new information about a regular activity not previously mentioned in his schedule.

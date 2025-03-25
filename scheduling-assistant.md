@@ -66,7 +66,7 @@ Date,Start Time,End Time,Arrival Time,Game / Event Name,Location,Address,Result
 06/01/2025,12:00 AM, 1:30 AM,11:50 PM,scrimmage,Redwood Moody Field,,
 
 * Marco also practices soccer at Corte Madera park. His soccer clinic dates and times are:
-Tuesdays and Thursdays 4:00-5:30pm
+Monday, Tuesdays and Thursdays 4:00-5:30pm
 March 10th-April 24th (skipping the week of April 7th-11th for Spring Break).
 
 * Marco has a reading tutor. His tutor, Judianne, and Marco meet in Sausalito at 9 am for

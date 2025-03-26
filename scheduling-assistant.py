@@ -106,7 +106,6 @@ def memories(repo):
     # Get the file content and metadata
     file = repo.get_contents(file_path)
     content = file.decoded_content.decode("utf-8")
-
     return content
 
 def save_memory(memory, repo):
@@ -134,10 +133,7 @@ llm_client = llm_client()
 
 # if requested, run evaluations
 evaluations =  (
-    {
-        "input": "Today's date",
-        "expected_response": "{Today's date}"
-    },
+
     {
         "input": "Marco's activites on March 21, 2025",
         "expected_response": "{None}"
@@ -145,6 +141,10 @@ evaluations =  (
     {
         "input": "Kids's activities on March 20, 2025",
         "expected_response": "Marco has basballe practice at Ross at 5:00. Nina swims at Redwood at 5:30."
+    },
+    {
+        "input": "What time is Nina's swim practice on Thursday, March 27, 2025?",
+        "expected_response": "5:45 to 6:45"
     },
 )
 

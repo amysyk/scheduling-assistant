@@ -1,11 +1,33 @@
-import os
 
+# to run eval: python3 scheduling-assistant.py evals
+# to run app: streamlit run scheduling-assistant.py
+import os
+from github import Github
+import streamlit as st
 
 # enable logging
 import logging
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.INFO)
+
+# determine pacific date/time
+from datetime import datetime
+import pytz
+pacific = pytz.timezone("America/Los_Angeles")
+pacific_time = datetime.now(pacific)
+
+# Connect to memories repo
+# Authenticate using your GitHub personal access token
+token = st.secrets["GITHUB_TOKEN"]  # Replace with your token
+g = Github(token)
+
+# Repository and file details
+repo_name = "amysyk/scheduling-assistant"  # Replace with your repo details
+
+# Access the repository
+repo = g.get_repo(repo_name)
+file_path = "memories.md"
 
 # set constants
 LLM_PROVIDER = "ANTHROPIC" # GOOGLE, OPENAI, or ANTHROPIC
@@ -30,14 +52,10 @@ def system_prompt():
     with open('scheduling-assistant.md', 'r') as file:
         # Read the content of the file into a string variable
         relevant_context = file.read()
-
-    # Tell the model today's date in pafic time zone
-    from datetime import datetime
-    import pytz
-    pacific = pytz.timezone("America/Los_Angeles")
-    pacific_time = datetime.now(pacific)
-
     relevant_context = relevant_context + f" Today's date is {pacific_time.date()}. "
+
+    # Read the content of the file into a string variable
+    relevant_context = relevant_context + memories(repo)
     return relevant_context
 
 # Function to interact with LLM
@@ -72,6 +90,7 @@ def llm_response(llm_client, system_prompt, user_input):
             for content_block in message.content:
                 if content_block.type == "text":
                     text = content_block.text
+                    print(text)
             return text
         elif LLM_PROVIDER == "GOOGLE":
             response = llm_client.models.generate_content(
@@ -82,6 +101,32 @@ def llm_response(llm_client, system_prompt, user_input):
     except Exception as e:
         print (e)
         return
+
+def memories(repo):
+    # Get the file content and metadata
+    file = repo.get_contents(file_path)
+    content = file.decoded_content.decode("utf-8")
+
+    return content
+
+def save_memory(memory, repo):
+    commit_message = "Add a memory"
+
+    # Get the file content and metadata
+    file = repo.get_contents(file_path)
+    content = file.decoded_content.decode("utf-8")
+
+    # Append a new line
+    new_line = f"{str(pacific_time)}: {memory}\n"
+    updated_content = content + new_line
+
+    # Update the file
+    repo.update_file(
+        path=file_path,
+        message=commit_message,
+        content=updated_content,
+        sha=file.sha,
+    )
 
 # set system system prompt
 system_prompt = system_prompt()
@@ -103,9 +148,6 @@ evaluations =  (
     },
 )
 
-
-# Streamlit App
-import streamlit as st
 
 # if evals requested, do evals and quit
 import sys
@@ -160,6 +202,7 @@ if input := st.chat_input("Message Don't Ask Dad"):
     # Learn from response
     learning = llm_response(llm_client, system_prompt + str(st.session_state.messages), "Succinclty summarize information from the last user message that you didn't already have. If no new information, respond with only 'None'.")
     if learning.rstrip('.').upper() != "NONE":
+        save_memory(learning, repo)
         logger.info(
             {
                 "event": {

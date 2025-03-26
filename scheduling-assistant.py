@@ -1,4 +1,3 @@
-
 # to run eval: python3 scheduling-assistant.py evals
 # to run app: streamlit run scheduling-assistant.py
 import os
@@ -19,7 +18,7 @@ pacific_time = datetime.now(pacific)
 
 # Connect to memories repo
 # Authenticate using your GitHub personal access token
-token = st.secrets["GITHUB_TOKEN"]  # Replace with your token
+token = os.environ.get("GITHUB_TOKEN")  # Replace with your token
 g = Github(token)
 
 # Repository and file details
@@ -90,7 +89,6 @@ def llm_response(llm_client, system_prompt, user_input):
             for content_block in message.content:
                 if content_block.type == "text":
                     text = content_block.text
-                    print(text)
             return text
         elif LLM_PROVIDER == "GOOGLE":
             response = llm_client.models.generate_content(
@@ -104,6 +102,7 @@ def llm_response(llm_client, system_prompt, user_input):
 
 def memories(repo):
     # Get the file content and metadata
+    file_path = "memories.txt"  # Define file path within the function
     file = repo.get_contents(file_path)
     content = file.decoded_content.decode("utf-8")
     return content

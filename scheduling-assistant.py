@@ -26,7 +26,6 @@ repo_name = "amysyk/scheduling-assistant"  # Replace with your repo details
 
 # Access the repository
 repo = g.get_repo(repo_name)
-file_path = "memories.md"
 
 # set constants
 LLM_PROVIDER = "ANTHROPIC" # GOOGLE, OPENAI, or ANTHROPIC
@@ -102,12 +101,13 @@ def llm_response(llm_client, system_prompt, user_input):
 
 def memories(repo):
     # Get the file content and metadata
-    file_path = "memories.txt"  # Define file path within the function
+    file_path = "memories.md"
     file = repo.get_contents(file_path)
     content = file.decoded_content.decode("utf-8")
     return content
 
 def save_memory(memory, repo):
+    file_path = "memories.md"
     commit_message = "Add a memory"
 
     # Get the file content and metadata

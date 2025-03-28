@@ -4,3 +4,4 @@
 2025-03-27 06:31:51.465528-07:00: Nina and Marco will not attend any scheduled activities from April 10-13, 2025 because they are going to Pismo Beach for spring break.
 2025-03-27 16:37:22.375408-07:00: The user asked about "today's schedule" which is for March 27, 2025.
 2025-03-28 10:05:05.940695-07:00: Marco will not attend tomorrow's catcher practice (March 29, 2025) or any future catcher practices. This is new information about cancelling all of Marco's remaining catcher practices.
+2025-03-28 10:06:18.291803-07:00: Tomorrow (Saturday, March 29, 2025) Marco will not attend his scheduled catcher practice. He will only have his baseball game vs. Bulls at Ross Commons-Rookies Field from 1:00 to 2:30 PM. Nina has a swim clinic at Redwood High from 1:00 to 1:30 PM.

@@ -7,3 +7,4 @@
 2025-03-28 10:06:18.291803-07:00: Tomorrow (Saturday, March 29, 2025) Marco will not attend his scheduled catcher practice. He will only have his baseball game vs. Bulls at Ross Commons-Rookies Field from 1:00 to 2:30 PM. Nina has a swim clinic at Redwood High from 1:00 to 1:30 PM.
 2025-03-31 17:22:37.204619-07:00: Marco's baseball practice on Thursday, April 3, 2025 will be from 4:30 to 5:30 PM, not 5:00 to 6:00 PM as previously scheduled.
 2025-03-31 17:23:19.147536-07:00: Marco will attend only baseball practice on Thursday, April 3, 2025, and will skip soccer practice that day.
+2025-04-01 06:46:37.601125-07:00: The user is asking for today's schedule (Tuesday, April 1, 2025).

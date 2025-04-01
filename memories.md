@@ -8,3 +8,4 @@
 2025-03-31 17:22:37.204619-07:00: Marco's baseball practice on Thursday, April 3, 2025 will be from 4:30 to 5:30 PM, not 5:00 to 6:00 PM as previously scheduled.
 2025-03-31 17:23:19.147536-07:00: Marco will attend only baseball practice on Thursday, April 3, 2025, and will skip soccer practice that day.
 2025-04-01 06:46:37.601125-07:00: The user is asking for today's schedule (Tuesday, April 1, 2025).
+2025-04-01 08:54:43.213255-07:00: Nina has a Tidalwaves Pizza Cheer event at 5 pm on April 17, 2025. This is new information that was not previously included in my knowledge.

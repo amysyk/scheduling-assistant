@@ -12,3 +12,4 @@
 2025-04-01 19:06:37.303595-07:00: The user is asking for the schedule for the current week (the week of April 1, 2025).
 2025-04-02 07:28:28.087052-07:00: The user is asking for today's schedule (Wednesday, April 2, 2025).
 2025-04-02 07:31:56.942159-07:00: You're right - I made a mistake. Soccer practices are only on Monday, Tuesday, and Thursday (not Wednesday) according to the information I have. Marco doesn't have soccer today (Wednesday, 4/2).
+2025-04-02 07:33:15.606239-07:00: Nina will not swim tomorrow (4/3) because all Bacich kids have an open house at 6 pm.

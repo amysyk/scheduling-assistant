@@ -9,3 +9,4 @@
 2025-03-31 17:23:19.147536-07:00: Marco will attend only baseball practice on Thursday, April 3, 2025, and will skip soccer practice that day.
 2025-04-01 06:46:37.601125-07:00: The user is asking for today's schedule (Tuesday, April 1, 2025).
 2025-04-01 08:54:43.213255-07:00: Nina has a Tidalwaves Pizza Cheer event at 5 pm on April 17, 2025. This is new information that was not previously included in my knowledge.
+2025-04-01 19:06:37.303595-07:00: The user is asking for the schedule for the current week (the week of April 1, 2025).

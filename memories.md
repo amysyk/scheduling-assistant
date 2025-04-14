@@ -15,3 +15,4 @@
 2025-04-02 07:33:15.606239-07:00: Nina will not swim tomorrow (4/3) because all Bacich kids have an open house at 6 pm.
 2025-04-14 15:46:54.925729-07:00: Marco will skip soccer practice on Tuesday, April 15, 2025.
 2025-04-14 15:51:16.411172-07:00: Marco has a 2nd grade concert from 6:00 pm to 7:30 pm at Bacich on Thursday, 4/17/2025.
+2025-04-14 15:52:21.253487-07:00: Marco will skip the catcher practices this weekend and future weekends.

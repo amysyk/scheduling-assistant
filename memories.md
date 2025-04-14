@@ -18,3 +18,4 @@
 2025-04-14 15:52:21.253487-07:00: Marco will skip the catcher practices this weekend and future weekends.
 2025-04-14 15:54:05.343917-07:00: I now understand that Nina will not swim on Thursday 4/17 and will only attend the Tidalwaves Pizza Cheer event instead.
 2025-04-14 15:57:56.825469-07:00: Marco will have a birthday party on Sunday, April 20, 2025, from 10:30 AM to 12:30 PM. This conflicts with his scheduled baseball practice at Ross Commons (9:00-10:00 AM).
+2025-04-14 16:08:05.943263-07:00: The user is asking for the schedule to include Marco's Sunday baseball practice information, which appears to be scheduled from 9:00 to 10:00 AM at Ross Commons- Rookies Field on April 20, 2025. This conflicts with his birthday party from 10:30 AM to 12:30 PM on the same day.

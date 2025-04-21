@@ -20,3 +20,4 @@
 2025-04-14 15:57:56.825469-07:00: Marco will have a birthday party on Sunday, April 20, 2025, from 10:30 AM to 12:30 PM. This conflicts with his scheduled baseball practice at Ross Commons (9:00-10:00 AM).
 2025-04-14 16:08:05.943263-07:00: The user is asking for the schedule to include Marco's Sunday baseball practice information, which appears to be scheduled from 9:00 to 10:00 AM at Ross Commons- Rookies Field on April 20, 2025. This conflicts with his birthday party from 10:30 AM to 12:30 PM on the same day.
 2025-04-21 09:42:28.985607-07:00: Nina will not be swimming on Thursday, April 24, 2025 because she will be on the Gold Country trip.
+2025-04-21 09:46:55.880759-07:00: The user indicates that there is soccer practice today (Monday, April 21, 2025), which conflicts with the information I previously provided where I stated "today (Monday, April 21) there are no scheduled activities."

@@ -27,3 +27,9 @@ None
 2025-04-27 18:36:39.079760-07:00: Marco will not attend soccer practice on Tuesday, April 29, 2025.
 2025-04-27 18:36:50.994201-07:00: Marco has no soccer practice on Tuesday, April 29, 2025.
 2025-04-27 18:37:33.398584-07:00: The user is questioning whether there's a swimming activity for Nina that I might have missed in my schedule summary for the upcoming week.
+2025-04-27 19:44:09.745533-07:00: Marco has soccer tryouts at Corte Madera park:
+- Sunday, May 4, 2025 from 3:00 to 4:30 pm
+- Monday, May 5, 2025 from 3:45 to 5:15 pm
+- Wednesday, May 7, 2025 from 3:45 to 5:15 pm
+
+This is entirely new information about soccer tryouts that wasn't previously in my knowledge.

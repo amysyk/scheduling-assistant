@@ -50,31 +50,9 @@ will be at 2 pm.
 
 * Marco practices and plays baseball on Cubs team with Ross Valley Little League.
 His schedule is as following:
-Date,Start Time,End Time,Arrival Time,Game / Event Name,Location,Address,Result
-03/09/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/13/2025, 5:00 PM, 6:00 PM, 5:00 PM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/15/2025, 8:00 AM,"", 8:00 AM,Opening Day Parade,Ross Commons- Tee Ball Field,"Ross Commons, Ross, CA",
-03/15/2025, 3:00 PM, 4:30 PM, 3:00 PM,at A's,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/16/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/20/2025, 5:00 PM, 6:00 PM, 5:00 PM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/22/2025, 9:00 AM,10:30 AM, 9:00 AM,vs. Rangers,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/23/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/27/2025, 5:00 PM, 6:00 PM, 5:00 PM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/29/2025, 1:00 PM, 2:30 PM, 1:00 PM,vs. Bulls,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-03/30/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-04/03/2025, 5:00 PM, 6:00 PM, 5:00 PM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-04/15/2025, 5:00 PM, 6:30 PM, 5:00 PM,vs. Mariners,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-04/19/2025, 1:00 PM, 2:30 PM, 1:00 PM,at Giants Rookies,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-04/20/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-04/26/2025, 9:00 AM,10:30 AM, 9:00 AM,at Astros,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-04/27/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-04/30/2025, 5:00 PM, 6:30 PM, 5:00 PM,at Cardinals,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-05/03/2025, 3:00 PM, 4:30 PM, 3:00 PM,vs. Mets,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-05/04/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-05/11/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-05/18/2025, 9:00 AM,10:00 AM, 9:00 AM,Practice,Ross Commons- Rookies Field,"Ross Commons, Ross, CA",
-
-Marco also has a picture day at Kent Middle School with his Ross Valley Little League team at 11:45 am Saturday, March 22, 2025
+Home vs. Giants Rookies Sat, May 10, 2025 1:00 PM - 2:30 PM @ Ross Commons- Rookies Field
+Practice Sun, May 11, 2025 9:00 AM - 10:00 AM @ Ross Commons- Rookies Field
+Practice Sun, May 18, 2025 9:00 AM - 10:00 AM @ Ross Commons- Rookies Field
 
 # Considerations
 * Marco has Rustin's birthday part at Hal Brown park from 4 to 6 pm on Saturday, March 8.

@@ -7,12 +7,9 @@ baseball, and has a reading tutor. Nina swims.
 # Nina's Schedule
 ## Swim practices
 * Nina swims in Redwood High.
-* From March 3, 2025 to March 7, 2025 Nina swims on Wednesday from 5:45 to 6:45 pm
-* From Mar 10, 2025 to May 2, 2025 Nina swims on Tuesdays and Thursdays from 5:30
-to 6:30p.
-* From Mar 10, 2025 to May 2, 2025 Nina swims on Wednesdays from 5:45 to 6:45 pm.
-* On Tuesday, March 11, Nina's practice is between 6:15 and 7:00 due to a Redwood
-High swim meet.
+* From May 5, 2025 to June 27, 2025 Nina swims on Wednesdays from 4:00 to 5:00 pm
+* From May 5, 2025 to June 27, 2025 Nina swims on Tuesdays and Thursdays from 4:30
+to 5:30pm.
 
 ## Swim meets
 Nina also goes to swim meets on select Saturdays April through June:

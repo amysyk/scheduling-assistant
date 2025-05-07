@@ -34,33 +34,11 @@ Sat, Mar 08, 2025 4:00 PM @ Neil Cummins Elementary School
 Sat, Mar 15, 2025 2:30 PM @ Del Mar Middle School
 
 * Marco practices baseball with Marin Baseball. This is the schedule of his practices:
-Date,Start Time,End Time,Arrival Time,Game / Event Name,Location,Address,Result
-03/08/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-03/09/2025,11:00 AM,12:30 PM,10:50 AM,Practice,Redwood Moody Field,,
-03/12/2025, 2:30 PM, 4:00 PM, 2:20 PM,Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-03/15/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-03/16/2025,11:00 AM,12:30 PM,10:50 AM,Practice,Redwood Moody Field,,
-03/22/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-03/23/2025,11:00 AM,12:30 PM,10:50 AM,Practice,Redwood Moody Field,,
-03/26/2025, 2:30 PM, 4:00 PM, 2:20 PM,Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-03/29/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-03/30/2025,11:00 AM,12:30 PM,10:50 AM,Practice,Redwood Moody Field,,
-04/06/2025,11:00 AM,12:30 PM,10:50 AM,Practice,Redwood Moody Field,,
-04/16/2025, 2:30 PM, 4:00 PM, 2:20 PM,Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-04/19/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,McInnis - Tam Field,,
-04/26/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-04/27/2025,11:00 AM,12:30 PM,10:50 AM,Practice,Redwood Moody Field,,
-04/30/2025, 2:30 PM, 4:00 PM, 2:20 PM,Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-05/03/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,McInnis - Tam Field,,
-05/04/2025,12:00 AM, 1:30 AM,11:50 PM,scrimmage,Redwood Moody Field,,
-05/10/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-05/11/2025,12:00 AM, 1:30 AM,11:50 PM,scrimmage,Redwood Moody Field,,
-05/14/2025, 2:30 PM, 4:00 PM, 2:20 PM,Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-05/17/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,McInnis - Tam Field,,
-05/18/2025,12:00 AM, 1:30 AM,11:50 PM,scrimmage,Redwood Moody Field,,
-05/28/2025, 2:30 PM, 4:00 PM, 2:20 PM,Practice,LaunchPad,"440 Smith Ranch Rd San Rafael, CA, United States",
-05/31/2025, 9:00 AM,10:00 AM, 8:50 AM,Catcher Practice,McInnis - Tam Field,,
-06/01/2025,12:00 AM, 1:30 AM,11:50 PM,scrimmage,Redwood Moody Field,,
+scrimmage Sun, May 11, 2025 10:30 AM - 12:30 PM @ Redwood Moody Field
+Practice Wed, May 14, 2025 2:30 PM - 4:00 PM @ LaunchPad
+scrimmage Sun, May 18, 2025 10:30 AM - 12:30 PM @ Redwood Moody Field
+Practice Wed, May 28, 2025 2:30 PM - 4:00 PM @ LaunchPad
+scrimmage Sun, Jun 01, 2025 10:30 AM - 12:30 PM @ Redwood Moody Field
 
 * Marco also practices soccer at Corte Madera park. His soccer clinic dates and times are:
 Monday, Tuesdays and Thursdays 4:00-5:30pm

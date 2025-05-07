@@ -40,3 +40,4 @@ This is entirely new information about soccer tryouts that wasn't previously in 
 
 None
 2025-05-06 20:43:01.889900-07:00: The user is asking for the kids' activities for the current week (week of May 6, 2025), which I haven't previously provided.
+2025-05-06 20:50:42.151918-07:00: Marco will not attend catcher practice on Saturday, May 10, 2025.

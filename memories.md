@@ -39,3 +39,4 @@ This is entirely new information about soccer tryouts that wasn't previously in 
 2025-05-04 20:33:06.512413-07:00: I already knew that Marco has soccer tryouts at Corte Madera park on Monday, May 5, 2025 from 3:45 to 5:15 pm based on a previous update. The message doesn't mention any baseball activity at 5 pm on May 5 in my existing information, so there's nothing to cancel. 
 
 None
+2025-05-06 20:43:01.889900-07:00: The user is asking for the kids' activities for the current week (week of May 6, 2025), which I haven't previously provided.

@@ -49,3 +49,4 @@ None
 2025-05-07 12:52:20.932595-07:00: The user is asking about the schedule for today (May 7, 2025).
 2025-05-11 08:13:37.769622-07:00: Marco has a baseball game at Ross Commons at 5 pm on Wednesday, May 15, 2025. This is new information not previously included in my knowledge.
 2025-05-11 08:14:32.828335-07:00: Marco has a baseball game at Ross Commons at 5 pm on Wednesday, May 14, 2025, not May 15 as previously stated.
+2025-05-11 19:24:01.660957-07:00: No new information. You're asking me to include Nina's swim practice on May 13 in the weekly schedule, which I already acknowledged in my previous response when I confirmed that Nina swims on Tuesday (May 13) from 4:30 to 5:30 PM at Redwood High.

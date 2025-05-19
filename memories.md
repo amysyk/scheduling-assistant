@@ -53,3 +53,6 @@ None
 2025-05-11 19:42:28.267461-07:00: Marco will not attend his baseball practice at LaunchPad on Wednesday, May 14, 2025.
 2025-05-12 19:15:06.688360-07:00: The user is asking for the current week's schedule (week of May 12, 2025), which I haven't provided yet.
 2025-05-19 13:52:19.605438-07:00: Marco has a soccer practice at Corte Madera park on Thursday, May 29, 2025 from 3:45 to 5:15 PM. This is new scheduling information not previously in my knowledge.
+2025-05-19 13:52:44.146918-07:00: Marco has soccer practices at Corte Madera park:
+- Thursday, May 29, 2025 from 3:45 to 5:15 PM
+- Monday, June 2, 2025 from 3:45 to 5:15 PM

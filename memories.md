@@ -52,3 +52,4 @@ None
 2025-05-11 19:24:01.660957-07:00: No new information. You're asking me to include Nina's swim practice on May 13 in the weekly schedule, which I already acknowledged in my previous response when I confirmed that Nina swims on Tuesday (May 13) from 4:30 to 5:30 PM at Redwood High.
 2025-05-11 19:42:28.267461-07:00: Marco will not attend his baseball practice at LaunchPad on Wednesday, May 14, 2025.
 2025-05-12 19:15:06.688360-07:00: The user is asking for the current week's schedule (week of May 12, 2025), which I haven't provided yet.
+2025-05-19 13:52:19.605438-07:00: Marco has a soccer practice at Corte Madera park on Thursday, May 29, 2025 from 3:45 to 5:15 PM. This is new scheduling information not previously in my knowledge.

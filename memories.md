@@ -56,3 +56,4 @@ None
 2025-05-19 13:52:44.146918-07:00: Marco has soccer practices at Corte Madera park:
 - Thursday, May 29, 2025 from 3:45 to 5:15 PM
 - Monday, June 2, 2025 from 3:45 to 5:15 PM
+2025-05-21 18:34:06.849718-07:00: The user is asking about this upcoming weekend's schedule, which I haven't been asked about recently.

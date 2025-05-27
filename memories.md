@@ -57,3 +57,4 @@ None
 - Thursday, May 29, 2025 from 3:45 to 5:15 PM
 - Monday, June 2, 2025 from 3:45 to 5:15 PM
 2025-05-21 18:34:06.849718-07:00: The user is asking about this upcoming weekend's schedule, which I haven't been asked about recently.
+2025-05-27 15:25:46.293929-07:00: The user is asking about the schedule for today (May 27, 2025), which I haven't been asked about specifically yet.

@@ -58,3 +58,4 @@ None
 - Monday, June 2, 2025 from 3:45 to 5:15 PM
 2025-05-21 18:34:06.849718-07:00: The user is asking about this upcoming weekend's schedule, which I haven't been asked about recently.
 2025-05-27 15:25:46.293929-07:00: The user is asking about the schedule for today (May 27, 2025), which I haven't been asked about specifically yet.
+2025-06-09 20:29:18.600339-07:00: Nina's swim practice on Wednesday, June 11, 2025 will be shorter than usual (4:00 to 4:40 pm instead of 4:00 to 5:00 pm), and she will attend Bingo from 4:45 to 5:25 pm at Redwood High Amphitheater afterward. This Bingo event is entirely new information.
